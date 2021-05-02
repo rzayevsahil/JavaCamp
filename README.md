@@ -43,7 +43,7 @@
  <summary>Java Kurulum</summary><br>
   
   <details>
-  <summary>JDK nedir ve nasıl çalıştırılır?</summary>
+  <summary>JDK nedir ve nasıl çalıştırılır?</summary><br>
   
   ![jdk nedir](https://user-images.githubusercontent.com/58303745/116801592-68c35d80-ab1c-11eb-8813-15d5986a19a7.jpg)
   <hr>
