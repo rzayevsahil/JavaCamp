@@ -40,7 +40,7 @@
  
  <details>
   
- <summary>Java Kurulum</summary><br>
+ <summary>Java Kurulumla ilgili bilgiler</summary><br>
  
   <details>
   <summary>JDK nedir ve nasıl çalışır?</summary><br>
