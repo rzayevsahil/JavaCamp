@@ -1,6 +1,8 @@
 # JavaCamp
-  
+    
   ![java giriş resmi](https://user-images.githubusercontent.com/58303745/116801369-6233e680-ab1a-11eb-9f70-070688d7d8df.jpg)
+  
+  
   <hr>
 <details>
   <summary>Java Dili ve Platform Özellikleri</summary><br>
@@ -23,6 +25,70 @@
 ![java dil ve platform özellikleri 3](https://user-images.githubusercontent.com/58303745/116801440-1cc3e900-ab1b-11eb-8112-9235e279d6e9.jpg)
 
 </details>
+
+
+<details>
+  <summary>Java Program Yaşam Döngüsü</summary>
+  
+  ![program yaşam döngüsü 2](https://user-images.githubusercontent.com/58303745/116801561-2f8aed80-ab1c-11eb-8864-defd8d5a154f.jpg)
+  <hr>
+  
+![program yaşam döngüsü 3](https://user-images.githubusercontent.com/58303745/116801563-31ed4780-ab1c-11eb-8e23-13cb4916d8f9.jpg)  
+  
+  </details>
+ 
+ 
+ <details>
+  
+ <summary>Java Kurulum</summary><br>
+  
+  <details>
+  <summary>JDK nedir ve nasıl çalıştırılır?</summary>
+  
+  ![jdk nedir](https://user-images.githubusercontent.com/58303745/116801592-68c35d80-ab1c-11eb-8813-15d5986a19a7.jpg)
+  <hr>
+  
+![jdk neden kullanılır](https://user-images.githubusercontent.com/58303745/116801591-66f99a00-ab1c-11eb-9db4-c899d2187253.jpg)
+<hr>
+
+![jdk nasıl çalıştırılır](https://user-images.githubusercontent.com/58303745/116801589-65c86d00-ab1c-11eb-90f8-58f61a26fde4.jpg)
+  
+  </details>
+  
+  
+  
+  <details>
+  <summary>JRE nedir ve nasıl çalışır?</summary>
+  
+  ![jre nedir](https://user-images.githubusercontent.com/58303745/116801737-7fb67f80-ab1d-11eb-85fb-67d780650939.jpg)
+  <hr>
+  
+![jre neden kullanılır](https://user-images.githubusercontent.com/58303745/116801738-81804300-ab1d-11eb-9583-426a2005f205.jpg)
+<hr>
+
+![jre nasıl çalışır](https://user-images.githubusercontent.com/58303745/116801739-82b17000-ab1d-11eb-8e88-812c88c2f69a.jpg)
+  
+  </details>
+  
+  
+  
+  <details>
+  <summary>JWM nedir ve nasıl çalıştır?</summary>
+  
+  ![jwm 1](https://user-images.githubusercontent.com/58303745/116801757-a96fa680-ab1d-11eb-9789-ba69cb0d7489.jpg)
+  <hr>
+  
+![jwm neden kullanılır 2](https://user-images.githubusercontent.com/58303745/116801758-aaa0d380-ab1d-11eb-9acb-9c0514827c41.jpg)
+<hr>
+
+![jwm nasıl çalışır 3](https://user-images.githubusercontent.com/58303745/116801759-abd20080-ab1d-11eb-84ae-bf41343f07c8.jpg)
+<hr>
+
+![jwm nasıl çalışır 4](https://user-images.githubusercontent.com/58303745/116801761-aeccf100-ab1d-11eb-8d14-ff61fb38f373.jpg)
+  
+  </details>
+  
+  </details>
 
 
 
