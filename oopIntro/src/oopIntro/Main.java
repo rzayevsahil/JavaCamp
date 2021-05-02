@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Product product1 = new Product(1,"Lenovo V14",15000,"16 GB Ram");// örnek oluþturma, referans oluþturma, instance
-		
+		Product product1 = new Product(1, "Lenovo V14", 15000, "16 GB Ram");// örnek oluþturma, referans oluþturma,
+																			// instance
 
 		Product product2 = new Product();
 		product2.id = 2;
@@ -19,6 +19,8 @@ public class Main {
 		product3.unitPrice = 10000;
 		product3.detail = "8 GB Ram";
 
+		
+		
 		Product[] products = { product1, product2, product3 };
 
 		for (Product product : products) {
@@ -26,16 +28,23 @@ public class Main {
 		}
 
 		System.out.println(products.length);
+
+		Category category1 = new Category();
+		category1.id = 1;
+		category1.name = "Bilgisayar";
+
+		Category category2 = new Category();
+		category2.id = 2;
+		category2.name = "Ev/Bahçe";
+
 		
 		
-		
-		Category category1=new Category();
-		category1.id=1;
-		category1.name="Bilgisayar";
-		
-		Category category2=new Category();
-		category2.id=2;
-		category2.name="Ev/Bahçe";
+		ProductManager productManager = new ProductManager();
+		productManager.addToCart(product1);
+
+		productManager.addToCart(product2);
+
+		productManager.addToCart(product3);
 
 	}
 
