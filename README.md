@@ -41,9 +41,9 @@
  <details>
   
  <summary>Java Kurulum</summary><br>
-  
+ 
   <details>
-  <summary>JDK nedir ve nasıl çalıştırılır?</summary><br>
+  <summary>JDK nedir ve nasıl çalışır?</summary><br>
   
   ![jdk nedir](https://user-images.githubusercontent.com/58303745/116801592-68c35d80-ab1c-11eb-8813-15d5986a19a7.jpg)
   <hr>
@@ -73,7 +73,7 @@
   
   
   <details>
-  <summary>JWM nedir ve nasıl çalıştır?</summary><br>
+  <summary>JWM nedir ve nasıl çalışır?</summary><br>
   
   ![jwm 1](https://user-images.githubusercontent.com/58303745/116801757-a96fa680-ab1d-11eb-9789-ba69cb0d7489.jpg)
   <hr>
@@ -87,6 +87,7 @@
 ![jwm nasıl çalışır 4](https://user-images.githubusercontent.com/58303745/116801761-aeccf100-ab1d-11eb-8d14-ff61fb38f373.jpg)
   
   </details>
+  
   
   </details>
 
