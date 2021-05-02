@@ -28,7 +28,7 @@
 
 
 <details>
-  <summary>Java Program Yaşam Döngüsü</summary>
+  <summary>Java Program Yaşam Döngüsü</summary><br>
   
   ![program yaşam döngüsü 2](https://user-images.githubusercontent.com/58303745/116801561-2f8aed80-ab1c-11eb-8864-defd8d5a154f.jpg)
   <hr>
@@ -58,7 +58,7 @@
   
   
   <details>
-  <summary>JRE nedir ve nasıl çalışır?</summary>
+  <summary>JRE nedir ve nasıl çalışır?</summary><br>
   
   ![jre nedir](https://user-images.githubusercontent.com/58303745/116801737-7fb67f80-ab1d-11eb-85fb-67d780650939.jpg)
   <hr>
@@ -73,7 +73,7 @@
   
   
   <details>
-  <summary>JWM nedir ve nasıl çalıştır?</summary>
+  <summary>JWM nedir ve nasıl çalıştır?</summary><br>
   
   ![jwm 1](https://user-images.githubusercontent.com/58303745/116801757-a96fa680-ab1d-11eb-9789-ba69cb0d7489.jpg)
   <hr>
