@@ -7,7 +7,7 @@ public class Product {
 	}
 
 	public Product(int id, String name, double unitPrice, String detail) {
-		this();// boþ consturctoru çaðýrýyor - 5.satýrdaki
+		this();// boþ constructoru çaðýrýyor - 5.satýrdaki
 		this.id = id;
 		this.name = name;
 		this.unitPrice = unitPrice;
