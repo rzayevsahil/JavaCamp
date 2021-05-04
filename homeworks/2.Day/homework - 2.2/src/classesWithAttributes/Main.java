@@ -1,5 +1,5 @@
 package classesWithAttributes;
-
+import java.util.*;
 public class Main {
 
 	public static void main(String[] args) {
@@ -14,8 +14,10 @@ public class Main {
 		
 		ProductManager productManager = new ProductManager();
 		productManager.Add(product);
-
-		System.out.println(product.getKod()); // L1
+		
+		System.out.println(product.getKod()); // L1	
+		
+		
 	}
 
 }
