@@ -15,6 +15,7 @@ public class Main {
 		
 		System.out.println(product2.getUnitPriceAfterDiscount());
 
+		
 		/*Product product3 = new Product();
 
 		Product[] products = { product1, product2, product3 };
