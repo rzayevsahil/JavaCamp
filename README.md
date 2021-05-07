@@ -7,7 +7,7 @@
   
    
 <summary><strong><i> Lesson 1 </i></strong></summary>  
-  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/blob/master/intro/src/intro/Main.java">intro</a></i></li>
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/blob/master/intro/src/intro">intro</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/1.Day/homework%20-%201.1/src">homework 1.1</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/1.Day/homework%20-%201.2/src">homework 1.2</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/1.Day/homework%20-%201.3/src">homework 1.3</a></i></li>  	 
