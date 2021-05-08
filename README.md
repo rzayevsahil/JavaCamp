@@ -27,6 +27,10 @@
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/inheritance2/src/inheritance2">inheritance2</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/interfaces/src/interfaces">interfaces</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/4.Day/homework%20-%204.1/src">homework - 4.1</a></i></li>
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/4.Day/homework%20-%204.2/src">homework - 4.2</a></i></li>
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/homeworks/4.Day/homework%20-%204.3">homework - 4.3</a></i></li>
+  
+  
   
   <br><hr>
 <details>
