@@ -37,6 +37,9 @@
  <summary><strong><i> Lesson 6 </i></strong></summary>  
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">northwind</a></i></li>
   <li><i><a href="https://github.com/rzayevsahil/HRMS">homework - 6.2</a></i></li>
+	
+<summary><strong><i> Lesson 7 </i></strong></summary>  
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">swagger-ui</a></i></li>
   
   
   
