@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>kodlamaio</groupId>
-	<artifactId>northwind</artifactId>
+	<artifactId>hrms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>northwind</name>
+	<name>hrms</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -46,16 +46,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-    		<groupId>io.springfox</groupId>
-    		<artifactId>springfox-swagger2</artifactId>
-    		<version>2.9.2</version>
-		</dependency>
-		<dependency>
-    		<groupId>io.springfox</groupId>
-    		<artifactId>springfox-swagger-ui</artifactId>
-    		<version>2.9.2</version>
 		</dependency>
 	</dependencies>
 
