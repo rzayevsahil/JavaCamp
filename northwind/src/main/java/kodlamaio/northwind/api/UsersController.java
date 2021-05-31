@@ -1,7 +1,6 @@
 package kodlamaio.northwind.api;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 import javax.validation.Valid;
@@ -22,7 +21,6 @@ import org.springframework.web.bind.annotation.RestController;
 import kodlamaio.northwind.business.abstracts.UserService;
 import kodlamaio.northwind.core.entities.User;
 import kodlamaio.northwind.core.utilities.results.ErrorDataResult;
-import kodlamaio.northwind.core.utilities.results.Result;
 
 @RestController
 @RequestMapping(value="/api/users")
