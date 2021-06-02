@@ -40,6 +40,15 @@
 	
 <summary><strong><i> Lesson 7 </i></strong></summary>  
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">swagger-ui</a></i></li>
+	
+<summary><strong><i> Lesson 8 </i></strong></summary>  
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">swagger-ui</a></i></li>
+	
+<summary><strong><i> Lesson 9 </i></strong></summary>  
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">swagger-ui</a></i></li>
+	
+<summary><strong><i> Lesson 10 </i></strong></summary>  
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/frontend">swagger-ui</a></i></li>
   
   
   
