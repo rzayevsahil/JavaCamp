@@ -48,7 +48,7 @@
   <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/northwind">northwind</a></i></li>
 	
 <summary><strong><i> Lesson 10 </i></strong></summary>  
-  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/frontend">frontend</a></i></li>
+  <li><i><a href="https://github.com/rzayevsahil/JavaCamp/tree/master/frontend/advancedJavaScript-master">frontend</a></i></li>
   
   
   
